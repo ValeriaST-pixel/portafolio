@@ -1,0 +1,11 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ValeriaST-pixel/portafolio.git",
+  "author": "valeria sanchez <valeriasancheztrejo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
